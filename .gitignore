@@ -129,5 +129,7 @@ dmypy.json
 .pyre/
 
 database/
+mahdatabase/
+Movie_Surveys/
 *.csv
 *.tsv
